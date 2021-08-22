@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Flute Choir Sign Up</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="css/style-flute-signup.css" rel="stylesheet">
+</head>
+
+<body>
+  <div id="wrapper">
+
+    <header>
+      <div class="container">
+        <div class="col-md-5 col-sm-6 col-xs-9 logo">
+          <span style="white-space: nowrap; float: left">
+            <a href=".">
+              <h3>DR.</h3>
+              <h1>CANDICE</h1>
+              <h2>BEHRMANN TENNEY</h2>
+            </a>
+            <!--h4>Library of flute choir music</h4-->
+          </span>
+          <span>
+            <a href=".">
+              <img src="images/candicebehrmann.webp" 
+                   alt="logo" 
+                   style="width:auto;height:100px;margin-left:15px;margin-top:17px"/>
+            </a>
+          </span>            
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12 mobile-togle">
+          <nav class="navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+              <button type="button" id="hamburger" class="navbar-toggle x collapsed" data-toggle="collapse"
+                data-target="#navbar-collapse-x">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#top"></a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navbar-collapse-x">
+              <ul class="nav navbar-nav navbar-right">
+                <li>
+                  <div class="search1">
+                    <button type="submit"><i class="fa fa-search"></i></button> <input type="text" class="form-control"
+                      placeholder="Search">
+                  </div>
+                </li>
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item">
+                    <a class="nav-link disabled" href=".">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="her-story">Her story<span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="flutechoir">Library of flute choir music</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link disabled" href="band">Library of band music</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link disabled" href="lessons">Lessons</a>
+                  </li>
+                </ul>
+              </ul>
+            </div><!-- .navbar-collapse -->
+          </nav>
+        </div>
+
+        <div class="col-md-7 col-sm-6 col-xs-3 right_section">
+          <div class="search">
+            <button type="submit"><i class="fa fa-search"></i></button> <input type="text" class="form-control"
+              placeholder="Search">
+          </div>
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a class="nav-link disabled" href=".">Home</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="her-story">Her story<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="flutechoir">Library of flute choir music</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="band">Library of band music</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="lessons">Lessons</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+        <!--div class="col-md-2 sign-in">
+        </div-->
+      </div>
+    </header>
+
+
+    <section class="banner">
+      <img src="images/hero image.png" />
+      <div class="inner-content col-md-12">
+        <div class="container jumboContainer">
+          <div class="col-xs-12 col-sm-12 col-md-8">
+            <h1>Videos</h1>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-4 content-right" style="background-color:rgb(180, 180, 180);">
+            <h3>CLIMB EVERY MOUNTAIN</h3><span>SEARCH HIGH AND LOW</span>
+            <div class="text-center">
+              <form name="signup" action="/auth/signUp" method="post">
+                username: <input name="username" id="username" style="color: black;"/><br/>
+                password: <input type="password" name="password" id="password" style="color: black;"/><br/>
+              <input type="submit" value="SIGN UP TODAY" class="btn btn-primary btn-lg"></input>
+              <div class="text-center" style="white-space: nowrap;"><small>Be informed of video arrivals</small></div>
+              </form>
+            </div>            
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!---------- End of Wrapper ----------->
+
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script>
+    jQuery(document).ready(function () {
+
+      // alert("wow");
+      //  jQuery("header").addClass("fixed");
+      jQuery("#hamburger").click(function () {
+        //alert("The paragraph was clicked.");
+        jQuery("header").toggleClass("fixed");
+      });
+
+
+    });
+
+  </script>
+
+</body>
+
+</html>

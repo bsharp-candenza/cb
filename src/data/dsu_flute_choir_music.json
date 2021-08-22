@@ -1,0 +1,1037 @@
+[
+         {
+            "ID": "1",
+            "TITLE": "A Free Montuno",
+            "COMPOSER": "arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet"
+         },
+         {
+            "ID": "2",
+            "TITLE": "A Gaelic Offering",
+            "COMPOSER": "Catherine McMichael",
+            "LAST_PERFORMANCE_DATE": "2015-10-12T00:00:00.000"
+         },
+         {
+            "ID": "3",
+            "TITLE": "A Lively Irish Medley",
+            "COMPOSER": "arr. David H. Bailey",
+            "INSTRUMENTATION": "p, 2 c, a, b"
+         },
+         {
+            "ID": "4",
+            "TITLE": "Air For The G String",
+            "COMPOSER": "J.S. Bach arr. Bill Holcombe",
+            "INSTRUMENTATION": "2 c, a, b"
+         },
+         {            "ID": "5",
+            "TITLE": "Album for the Young",
+            "COMPOSER": "Peter I. Tchaikovsky arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "6",
+            "TITLE": "Album for the Young",
+            "COMPOSER": "Peter I. Tchaikovsky arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet"
+         },
+         {
+            "ID": "7",
+            "TITLE": "Allegro from Solo III",
+            "COMPOSER": "John Stanley transcribed John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "8",
+            "TITLE": "Allegro Molto from Symphony No. 40",
+            "COMPOSER": "W. A. Mozart arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "5 c, a, b, string bass"
+         },
+         {
+            "ID": "9",
+            "TITLE": "Amazing Grace",
+            "COMPOSER": "Early American Melody arr. Bill Holcombe",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "10",
+            "TITLE": "Andante Con Moto",
+            "COMPOSER": "Felix Mendelssohn arr. Clair W. Johnson",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "11",
+            "TITLE": "Andante con Moto (Symphony 8), 2 copies",
+            "COMPOSER": "Franz Schubert arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "5 c, a, b, string bass"
+         },
+         {
+            "ID": "12",
+            "TITLE": "Andante et Rondo, Op. 25",
+            "COMPOSER": "Franz Doppler",
+            "INSTRUMENTATION": "Flute Duet and piano"
+         },
+         {
+            "ID": "13",
+            "TITLE": "Aria pastorella",
+            "COMPOSER": "Valentin Rathgeber arr. John Gibson",
+            "INSTRUMENTATION": "Flute Trio"
+         },
+         {
+            "ID": "14",
+            "TITLE": "As Eagles Flew",
+            "COMPOSER": "Phyllis Avidan Louke",
+            "INSTRUMENTATION": "p, 3 c, a, b (optional contra)",
+            "YOU_TUBE_EXT_ID": "s3Byt8L31v4"
+         },
+         {
+            "ID": "15",
+            "TITLE": "Ballet of the Little Chickens",
+            "COMPOSER": "Mussorgsky arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "16",
+            "TITLE": "Beauty and the Beast",
+            "COMPOSER": "Alan Menken arr. Daniel E. Self",
+            "INSTRUMENTATION": "3 c, a, b"
+         },
+         {
+            "ID": "17",
+            "TITLE": "Beethoven's 9th Symphony (in 5 Minutes)",
+            "COMPOSER": "Ludwig van Beethoven arr.  Judy Nishimura",
+            "INSTRUMENTATION": "p, 4 c, a, b, contra"
+         },
+         {
+            "ID": "18",
+            "TITLE": "Berceuse Op. 28, No. 1",
+            "COMPOSER": "Joachim Andersen arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "4 c, a, b"
+         },
+         {
+            "ID": "19",
+            "TITLE": "Brandenburg Concerto No. 3",
+            "COMPOSER": "J. S. Bach arr. John E. Davis",
+            "INSTRUMENTATION": "6 c, 2 a (both have optional c), b"
+         },
+         {
+            "ID": "20",
+            "TITLE": "Bumblebee Fantasy",
+            "COMPOSER": "arr. Ann Cameron Pearce",
+            "INSTRUMENTATION": "4 c (optional p), a (optional c), b (optional c)",
+            "LAST_PERFORMANCE_DATE": "2018-02-20T00:00:00.000"
+         },
+         {
+            "ID": "21",
+            "TITLE": "Camel of Mine",
+            "COMPOSER": "John Gibson",
+            "INSTRUMENTATION": "Flute Quartet"
+         },
+         {
+            "ID": "22",
+            "TITLE": "Comfort Music for Flute Quartet Vol. 1",
+            "COMPOSER": "arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet"
+         },
+         {
+            "ID": "23",
+            "TITLE": "Comfort Music No. 1",
+            "COMPOSER": "arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "24",
+            "TITLE": "Concerto in D Minor for Violin, Oboe, and Strings arranged for solo Flute",
+            "COMPOSER": "J. S. Bach",
+            "INSTRUMENTATION": "Unaccompanied"
+         },
+         {
+            "ID": "25",
+            "TITLE": "Concerto in E Minor",
+            "COMPOSER": "Antonio Vivaldi arr. Nancy Nourse",
+            "INSTRUMENTATION": "4 c solo, a, b"
+         },
+         {
+            "ID": "26",
+            "TITLE": "Concerto in F Major- The Cuckoo and the Nightingale",
+            "COMPOSER": "Handel transcribed John Gibson",
+            "INSTRUMENTATION": "Flute Quartet (alternate a)"
+         },
+         {
+            "ID": "27",
+            "TITLE": "Cross The Wide Missouri",
+            "COMPOSER": "Kelly Via",
+            "INSTRUMENTATION": "4 c, 2 a, 2 b, optional contra",
+            "LAST_PERFORMANCE_DATE": "2019-02-20T00:00:00.000"
+         },
+         {
+            "ID": "28",
+            "TITLE": "Dance of the Comedians",
+            "COMPOSER": "Bedrich Smetana arr. Ricky Lombardo",
+            "INSTRUMENTATION": "2 p, 3 c, 2 a (optional c's), b (optional c)",
+            "LAST_PERFORMANCE_DATE": "2018-11-29T00:00:00.000"
+         },
+         {
+            "ID": "29",
+            "TITLE": "Danse Macabre",
+            "COMPOSER": "Camille Saint-Saens arr. Gudrun Hinze",
+            "INSTRUMENTATION": "3 c (2nd has p, 3rd has buzzing headjoint), a, b"
+         },
+         {
+            "ID": "30",
+            "TITLE": "Deux Arabesques",
+            "COMPOSER": "Claude Debussy arr. Howard A. Cohen",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "31",
+            "TITLE": "Dizzy Fingers",
+            "COMPOSER": "Zen Confrey arr. Bill Holcombe",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "32",
+            "TITLE": "Duet No. 1",
+            "COMPOSER": "Friedrich Kuhlau",
+            "LAST_PERFORMANCE_DATE": "2018-10-12T00:00:00.000"
+         },
+         {
+            "ID": "33",
+            "TITLE": "Echoes in the Wind",
+            "COMPOSER": "Phyllis Avidan Louke",
+            "INSTRUMENTATION": "p, 3 c, a, b, drum"
+         },
+         {
+            "ID": "34",
+            "TITLE": "El Simpatico",
+            "COMPOSER": "Carlos Posadas arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "35",
+            "TITLE": "Enleve from Three Movements in the From of A Pear",
+            "COMPOSER": "Erik Satie arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "36",
+            "TITLE": "Fanfare 20",
+            "COMPOSER": "James Christensen",
+            "INSTRUMENTATION": "missing 2nd flute"
+         },
+         {
+            "ID": "37",
+            "TITLE": "Fantasia for Alto and Bass Flute Solos",
+            "COMPOSER": "Andrew Downes",
+            "INSTRUMENTATION": "5 c, a solo, b solo"
+         },
+         {
+            "ID": "38",
+            "TITLE": "Finale from Symphony No. 1, 'Classical'",
+            "COMPOSER": "Sergei Rachmaninoff arr. Matt Johnson",
+            "INSTRUMENTATION": "Flute Quartet and Piano"
+         },
+         {
+            "ID": "39",
+            "TITLE": "Flute 66",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "4 c, a, b, optional contra"
+         },
+         {
+            "ID": "40",
+            "TITLE": "Flute Duets",
+            "COMPOSER": "Edited by Mizzy McCaskill & Dona Gilliam",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "41",
+            "TITLE": "Flutes En Vacances",
+            "COMPOSER": "Jacques Casterede",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "42",
+            "TITLE": "Flutes for Santa",
+            "COMPOSER": "Jeanette Keim",
+            "INSTRUMENTATION": "3 c, a, b"
+         },
+         {
+            "ID": "43",
+            "TITLE": "Four for Four",
+            "COMPOSER": "Tradtional arr. Bill Holcombe",
+            "INSTRUMENTATION": "4 c"
+         },
+         {
+            "ID": "44",
+            "TITLE": "Fugue in C Major",
+            "COMPOSER": "Dietrich Buxtehude transcribed Matt Johnson",
+            "INSTRUMENTATION": "Flute Quartet"
+         },
+         {
+            "ID": "45",
+            "TITLE": "Gavotte I from Orchestral Suite #3",
+            "COMPOSER": "J. S. Bach transcribed by John Gibson",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "46",
+            "TITLE": "Gavotte I from Orchestral Suite #3",
+            "COMPOSER": "J. S. Bach transcribed by John Gibson",
+            "INSTRUMENTATION": "Flute Quartet"
+         },
+         {
+            "ID": "47",
+            "TITLE": "Grand Quartet in D Major",
+            "COMPOSER": "E. Kohler",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "48",
+            "TITLE": "Grave and Allegro from Sinfonia No. 9",
+            "COMPOSER": "Felix Mendelssohn arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "3 c, a, b, string bass"
+         },
+         {
+            "ID": "49",
+            "TITLE": "Greensleeves Fantasia",
+            "COMPOSER": "arr. Anne McGinty",
+            "INSTRUMENTATION": "p, 4 c, a (optional b)"
+         },
+         {
+            "ID": "50",
+            "TITLE": "Harmony in Blue and Gold",
+            "COMPOSER": "Eric Ewazen",
+            "INSTRUMENTATION": "3 c (1st doubles p), a"
+         },
+         {
+            "ID": "51",
+            "TITLE": "Hill Country Skecthes",
+            "COMPOSER": "Catherine McMichael",
+            "INSTRUMENTATION": "p, 3 c, a, b, optional percussion"
+         },
+         {
+            "ID": "52",
+            "TITLE": "I Paused in the Wood",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "p, 4 c, a, b, optional contra"
+         },
+         {
+            "ID": "53",
+            "TITLE": "I'll Love My Love",
+            "COMPOSER": "Gustav Holst arr. Phyllis Avidan Louke",
+            "INSTRUMENTATION": "missing parts"
+         },
+         {
+            "ID": "54",
+            "TITLE": "Insomniac Blue",
+            "COMPOSER": "Peter Senchuk",
+            "INSTRUMENTATION": "p, 3 c, 2 a, b, contra"
+         },
+         {
+            "ID": "55",
+            "TITLE": "Intermezzo- \"My Bonny Boy\"`",
+            "COMPOSER": "Ralph Vaughan Williams arr. John Gibson",
+            "INSTRUMENTATION": "Flute and 2 bassoons"
+         },
+         {
+            "ID": "56",
+            "TITLE": "Irish Suite",
+            "COMPOSER": "Tradtional arr. Sandra Howard",
+            "INSTRUMENTATION": "c doubling p, c, a"
+         },
+         {
+            "ID": "57",
+            "TITLE": "It Takes Four to Tango",
+            "COMPOSER": "Daniel Dorff",
+            "INSTRUMENTATION": "2 c, a (optional 3 c), b"
+         },
+         {
+            "ID": "58",
+            "TITLE": "Italian Song from Album for the Young",
+            "COMPOSER": "Tchaikovsky arr. John Gibson",
+            "INSTRUMENTATION": "Flute Trio"
+         },
+         {
+            "ID": "59",
+            "TITLE": "Italian Street Song",
+            "COMPOSER": "Victor Herbert arr. Bill Holcombe",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "60",
+            "TITLE": "Jour d'ete a la montagne",
+            "COMPOSER": "Eugene Bozza",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "61",
+            "TITLE": "Just Below the Rainbow",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "Combo of low or high flutes"
+         },
+         {
+            "ID": "62",
+            "TITLE": "L'Oiseau des Bois",
+            "COMPOSER": "Franz Doppler arr. Gerald Carey",
+            "INSTRUMENTATION": "Solo flute, 4 c, a, b"
+         },
+         {
+            "ID": "63",
+            "TITLE": "La Primavera (First Movement)",
+            "COMPOSER": "Antonio Vivaldi arr. Susan Ebernez",
+            "INSTRUMENTATION": "4 c, a (optional c)"
+         },
+         {
+            "ID": "64",
+            "TITLE": "Lo! Hear the Gentle Lark",
+            "COMPOSER": "Sir Henry Bishop arr. Micahel Axtell",
+            "INSTRUMENTATION": "3 c, a, b"
+         },
+         {
+            "ID": "65",
+            "TITLE": "Lodestone",
+            "COMPOSER": "Garret Hope",
+            "INSTRUMENTATION": "p, 2 c, 2 a, 2 b"
+         },
+         {
+            "ID": "66",
+            "TITLE": "Ma Mere L'Oye (Mother Goose Suite)",
+            "COMPOSER": "Maurice Ravel arr. Bruce Behnke",
+            "INSTRUMENTATION": "p, Eb (alternate c), 4 c, a, b"
+         },
+         {
+            "ID": "67",
+            "TITLE": "Madrigals",
+            "COMPOSER": "Samuel Adler",
+            "INSTRUMENTATION": "6 c",
+            "LAST_PERFORMANCE_DATE": "2018-01-01T00:00:00.000"
+         },
+         {
+            "ID": "68",
+            "TITLE": "Memories Of East Tennessee",
+            "COMPOSER": "Austin Alan Scott",
+            "INSTRUMENTATION": "p, 3 c, a (alternate c), b",
+            "LAST_PERFORMANCE_DATE": "2017-02-28T00:00:00.000"
+         },
+         {
+            "ID": "69",
+            "TITLE": "Menuet and Trio from Sonata, Op. 78",
+            "COMPOSER": "Franz Schubert arr. Clair W. Johnson",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "70",
+            "TITLE": "Millenium Celebration",
+            "COMPOSER": "Melvin Lauf, Jr.",
+            "INSTRUMENTATION": "Eb (c sub), 2 c, a (optional c), b"
+         },
+         {
+            "ID": "71",
+            "TITLE": "Minuetto",
+            "COMPOSER": "Giovanni Bolzoni",
+            "INSTRUMENTATION": "4 c, a, b",
+            "PIECE_COMMENT": "No Score",
+            "LAST_PERFORMANCE_DATE": "2019-10-12T00:00:00.000"
+         },
+         {
+            "ID": "72",
+            "TITLE": "Mississippi Rag",
+            "COMPOSER": "W. H. Krell arr. Arthur Frackenpohl",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "73",
+            "TITLE": "Monochrome V",
+            "COMPOSER": "Peter Schickele",
+            "INSTRUMENTATION": "8 c"
+         },
+         {
+            "ID": "74",
+            "TITLE": "Mood Swings",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "4 c, a, b"
+         },
+         {
+            "ID": "75",
+            "TITLE": "Mount Olympus Scenes",
+            "COMPOSER": "Alan B. Leech",
+            "INSTRUMENTATION": "p, 4 c, 2 a, b, contra",
+            "LAST_PERFORMANCE_DATE": "2019-10-11T00:00:00.000"
+         },
+         {
+            "ID": "76",
+            "TITLE": "My Favorite Things from the Sound of Music",
+            "COMPOSER": "arr. Ralph Raymond Hays",
+            "INSTRUMENTATION": "p, 3 c, a, b, contra"
+         },
+         {
+            "ID": "77",
+            "TITLE": "Native American Trilogy",
+            "COMPOSER": "Charles Wakefield Cadman arr. Ann Cameron Price",
+            "INSTRUMENTATION": "4 c, a (optional c), b (optional c), Native American Flute, Rattle"
+         },
+         {
+            "ID": "78",
+            "TITLE": "Night",
+            "COMPOSER": "Franz Abt arr. Austin A. Scott",
+            "INSTRUMENTATION": "4 c, a, b"
+         },
+         {
+            "ID": "79",
+            "TITLE": "Noel Suisse",
+            "COMPOSER": "Louis Claude D'aquin",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "80",
+            "TITLE": "Notturno",
+            "COMPOSER": "Alexander Borodin arr. Patrick Daily",
+            "INSTRUMENTATION": "3 c, a , b",
+            "LAST_PERFORMANCE_DATE": "2018-02-12T00:00:00.000"
+         },
+         {
+            "ID": "81",
+            "TITLE": "Nypmhs",
+            "COMPOSER": "Gary Schocker",
+            "INSTRUMENTATION": "C Flute Quartet",
+            "LAST_PERFORMANCE_DATE": "2019-10-11T00:00:00.000"
+         },
+         {
+            "ID": "82",
+            "TITLE": "Old and New China",
+            "COMPOSER": "Alan Leech",
+            "INSTRUMENTATION": "p, 4 c, 2 a, b, contra"
+         },
+         {
+            "ID": "83",
+            "TITLE": "On My Own from Les Miserables",
+            "COMPOSER": "Claude-Michel Schonberg arr. Phyllis Avidan Louke",
+            "INSTRUMENTATION": "2 c, a (alternate c), b"
+         },
+         {
+            "ID": "84",
+            "TITLE": "Orientale",
+            "COMPOSER": "Melvin Lauf",
+            "LAST_PERFORMANCE_DATE": "2016-04-18T00:00:00.000"
+         },
+         {
+            "ID": "85",
+            "TITLE": "Out of Their Rinds",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "p, 4 c, a, 2 b (optional contra)",
+            "LAST_PERFORMANCE_COMMENT": "NFA",
+            "LAST_PERFORMANCE_DATE": "2019-08-20T00:00:00.000"
+         },
+         {
+            "ID": "86",
+            "TITLE": "Pakington's Pound for Various combinations of woodwinds",
+            "COMPOSER": "Anon. arr. John Gibson",
+            "INSTRUMENTATION": "Trio"
+         },
+         {
+            "ID": "87",
+            "TITLE": "Pantalon",
+            "COMPOSER": "Amy Beach arr. John Gibson",
+            "INSTRUMENTATION": "Flute Trio"
+         },
+         {
+            "ID": "88",
+            "TITLE": "Pavane",
+            "COMPOSER": "Faure arr. William Bennet",
+            "INSTRUMENTATION": "4 c, a (alternate c), b (alternate c), piano"
+         },
+         {
+            "ID": "89",
+            "TITLE": "Pavane Pour Une Infante Defunte",
+            "COMPOSER": "Maurice Ravel arr. R. E. Thurston",
+            "INSTRUMENTATION": "p, 4 c, a, b, optional string bass"
+         },
+         {
+            "ID": "90",
+            "TITLE": "Peer Gynt Suite No. 1, Op. 46",
+            "COMPOSER": "Edvard Gried arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "5 c, a, b, string bass"
+         },
+         {
+            "ID": "91",
+            "TITLE": "Petite Suite (En Bateau, Cortege)",
+            "COMPOSER": "Claude Debussy arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "6 c, a, b, bass string"
+         },
+         {
+            "ID": "92",
+            "TITLE": "Piccolos In The Pub",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "2 p, 3 c, a, b, optional contra",
+            "LAST_PERFORMANCE_DATE": "2019-10-11T00:00:00.000"
+         },
+         {
+            "ID": "93",
+            "TITLE": "Pictures at an Exhibition",
+            "COMPOSER": "Modest Mussorgsky arr. Judy Nishimura",
+            "INSTRUMENTATION": "p, 4 c, a, b, contra"
+         },
+         {
+            "ID": "94",
+            "TITLE": "Polovetsian Dances",
+            "COMPOSER": "Alexander Borodin transcribed John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "95",
+            "TITLE": "Pop Duets for All",
+            "COMPOSER": "arr. Michael Story",
+            "INSTRUMENTATION": "Any 2 instruments"
+         },
+         {
+            "ID": "96",
+            "TITLE": "Praise the Lord With Flutes",
+            "COMPOSER": "Sigfrid Karg-Elert arr. Robert L. Cathey",
+            "INSTRUMENTATION": "4 c, (optional p), a (optional c), b"
+         },
+         {
+            "ID": "97",
+            "TITLE": "Prelude from Suite of Six Pieces (Charterhouse)",
+            "COMPOSER": "Ralph Vaughan Williams arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "98",
+            "TITLE": "Procession of the Sardar",
+            "COMPOSER": "M. Ippolitov-Ivanov arr. Richard E. Thurston",
+            "INSTRUMENTATION": "p, 6 c, a optional, b optional, triangle, tambourin"
+         },
+         {
+            "ID": "99",
+            "TITLE": "Puttin' On The Ritz",
+            "COMPOSER": "Irving Berlin arr. Frank J. Halferty",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "100",
+            "TITLE": "Quatuor",
+            "COMPOSER": "Pierre Max Dubois",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "101",
+            "TITLE": "Reiteration for flute quartet",
+            "COMPOSER": "Robert Matheson, DSU Faculty",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "102",
+            "TITLE": "Rondo Alla Turca",
+            "COMPOSER": "W. A. Mozart arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "4 c, 2 a, b, contra"
+         },
+         {
+            "ID": "103",
+            "TITLE": "Russian Sailors' Dance",
+            "COMPOSER": "Reinhold Gliere arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "6 c, 2 a, 2 b, string bass"
+         },
+         {
+            "ID": "104",
+            "TITLE": "Sailor's Song from Six Lyric Pieces",
+            "COMPOSER": "Edvard Grieg transcribed John Gibson",
+            "INSTRUMENTATION": "Flute Trio"
+         },
+         {
+            "ID": "105",
+            "TITLE": "Salsita for Flute Choir",
+            "COMPOSER": "Victor Rojas",
+            "INSTRUMENTATION": "3 c, a, b (alternate c)",
+            "PIECE_COMMENT": "No Score"
+         },
+         {
+            "ID": "106",
+            "TITLE": "Salt Of The Earth",
+            "COMPOSER": "Catherine McMichael",
+            "INSTRUMENTATION": "2 c, a, b"
+         },
+         {
+            "ID": "107",
+            "TITLE": "Scatter the Mud, The Mooncoin",
+            "COMPOSER": "Traditonal arr. John Gibson",
+            "INSTRUMENTATION": "Unaccompanied"
+         },
+         {
+            "ID": "108",
+            "TITLE": "Scenes from Childhood",
+            "COMPOSER": "Robert Schumann arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet (alternate a)"
+         },
+         {
+            "ID": "109",
+            "TITLE": "Scenes from Childhood",
+            "COMPOSER": "Robert Schumann arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet (alternate a)"
+         },
+         {
+            "ID": "110",
+            "TITLE": "Scherzo-Tarantelle",
+            "COMPOSER": "Henri Wieniawski arr. Gudrun Hinze",
+            "INSTRUMENTATION": "3 c (2nd part has p), a, b"
+         },
+         {
+            "ID": "111",
+            "TITLE": "Selection from \"Honeysuckle\" Op. 97, No. 5",
+            "COMPOSER": "Amy Beach arr. John Gibson",
+            "INSTRUMENTATION": "Unaccompanied"
+         },
+         {
+            "ID": "112",
+            "TITLE": "Selections from Children's Corner (VI)",
+            "COMPOSER": "Claude Debussy arr. John Gibson",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "113",
+            "TITLE": "Selections from Children's Corner (VI)",
+            "COMPOSER": "Claude Debussy arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet (alternate a)"
+         },
+         {
+            "ID": "114",
+            "TITLE": "Selections from Children's Corner (VI)",
+            "COMPOSER": "Claude Debussy arr. John Gibson",
+            "INSTRUMENTATION": "Flute Quartet (alternate a)"
+         },
+         {
+            "ID": "115",
+            "TITLE": "Semiramide (\"Semi\"-ramide)",
+            "COMPOSER": "Giachino Rossini arr. Judy Nishimura",
+            "INSTRUMENTATION": "p, 4 c, a, b"
+         },
+         {
+            "ID": "116",
+            "TITLE": "Serendipity",
+            "COMPOSER": "Ann Cameron Pearce",
+            "INSTRUMENTATION": "2 c, 2 headjoints, boomwhackers"
+         },
+         {
+            "ID": "117",
+            "TITLE": "Sheep May Safely Graze",
+            "COMPOSER": "J.S. Bach arr. Charlotte Ann Smith",
+            "INSTRUMENTATION": "4 c, a"
+         },
+         {
+            "ID": "118",
+            "TITLE": "Silver Celebration",
+            "COMPOSER": "Catherine McMichael",
+            "INSTRUMENTATION": "p, 3 f, a (optional c), b"
+         },
+         {
+            "ID": "119",
+            "TITLE": "Singing in the Rain"
+         },
+         {
+            "ID": "120",
+            "TITLE": "Six Concerti for Five Flutes Op. 15, Volume I",
+            "COMPOSER": "J. B. Boismortier",
+            "INSTRUMENTATION": "5 c"
+         },
+         {
+            "ID": "121",
+            "TITLE": "Six Concerti for Five Flutes Op. 15, Volume II",
+            "COMPOSER": "J. B. Boismortier",
+            "INSTRUMENTATION": "5 c"
+         },
+         {
+            "ID": "122",
+            "TITLE": "Sleeping Beauty Waltz"
+         },
+         {
+            "ID": "123",
+            "TITLE": "Song of the Wise Men",
+            "COMPOSER": "arr. John Gibson",
+            "INSTRUMENTATION": "Flute Trio"
+         },
+         {
+            "ID": "124",
+            "TITLE": "Songs of the Ocean",
+            "COMPOSER": "Ryohei Hirose arr. Ann Cameron Pearce",
+            "INSTRUMENTATION": "5 c, 2 a (alternate c), b (optional contra)"
+         },
+         {
+            "ID": "125",
+            "TITLE": "Souvenir de Prague",
+            "COMPOSER": "Franz and Karl Doppler",
+            "INSTRUMENTATION": "Flute Duet and piano"
+         },
+         {
+            "ID": "126",
+            "TITLE": "Spanish Dances: 1, 2, 3",
+            "COMPOSER": "Enrique Granados",
+            "LAST_PERFORMANCE_DATE": "2017-10-12T00:00:00.000"
+         },
+         {
+            "ID": "127",
+            "TITLE": "Spring Mvt. 1 & 3 (from the Four Seasons)",
+            "COMPOSER": "Antonio Vivaldi arr. Frank J. Halferty",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "128",
+            "TITLE": "Stained Glass Images I-VI",
+            "COMPOSER": "Sonny Burnette",
+            "INSTRUMENTATION": "2 p, 4 c, a (optional c), b",
+            "LAST_PERFORMANCE_COMMENT": "NFA",
+            "LAST_PERFORMANCE_DATE": "2019-08-19T00:00:00.000"
+         },
+         {
+            "ID": "129",
+            "TITLE": "Star Spangle Banner",
+            "COMPOSER": "John Stafford Smith arr. Ricky Lombardo",
+            "INSTRUMENTATION": "p, 3 c, a (optional c), b (optional c), optional bass, optional perc."
+         },
+         {
+            "ID": "130",
+            "TITLE": "Stars and Stripes Forever",
+            "COMPOSER": "John Phillip Sousa arr. Bill Holcombe",
+            "INSTRUMENTATION": "4 c, a optional, b optional, string bass or bassoon optional"
+         },
+         {
+            "ID": "131",
+            "TITLE": "Still, Still, Still",
+            "COMPOSER": "Ann Cameron Pearce",
+            "INSTRUMENTATION": "6 c (optional a, b)"
+         },
+         {
+            "ID": "132",
+            "TITLE": "Sudeley Castle",
+            "COMPOSER": "Keith Amos",
+            "INSTRUMENTATION": "p, 6 c, a, b"
+         },
+         {
+            "ID": "133",
+            "TITLE": "Suite de Montagne (2 copies)",
+            "COMPOSER": "Catherine McMichael",
+            "INSTRUMENTATION": "Eb (p alternate), 3 c, 2 a, b, contra"
+         },
+         {
+            "ID": "134",
+            "TITLE": "Suite for Flute Choir",
+            "COMPOSER": "Arthur Frackenpohl",
+            "INSTRUMENTATION": "2 p, 4 c, a, b"
+         },
+         {
+            "ID": "135",
+            "TITLE": "Suite for Flute Choir",
+            "COMPOSER": "F. R. C. Clarke",
+            "INSTRUMENTATION": "p, 4 c, a, b"
+         },
+         {
+            "ID": "136",
+            "TITLE": "Suite in C",
+            "COMPOSER": "Franz Joseph Haydn arr. Thomas M. Kuras",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "137",
+            "TITLE": "Tag!",
+            "COMPOSER": "David L. Wells",
+            "INSTRUMENTATION": "6 c, a, b",
+            "LAST_PERFORMANCE_DATE": "2019-10-11T00:00:00.000"
+         },
+         {
+            "ID": "138",
+            "TITLE": "Take Five",
+            "COMPOSER": "Paul Desmon arr. Calvin Custer",
+            "INSTRUMENTATION": "5 c, drums, guitar, bass, piano"
+         },
+         {
+            "ID": "139",
+            "TITLE": "Tambourin",
+            "COMPOSER": "Jean Philippe Rameau arr. Ervin Monroe",
+            "INSTRUMENTATION": "3 c, a (optional c), b (optional c)",
+            "LAST_PERFORMANCE_DATE": "2017-10-26T00:00:00.000"
+         },
+         {
+            "ID": "140",
+            "TITLE": "The Barber of Seville",
+            "COMPOSER": "Giachino Rossini arr. Richard McHenry",
+            "INSTRUMENTATION": "4 c, a, b"
+         },
+         {
+            "ID": "141",
+            "TITLE": "The Crystal Forest",
+            "COMPOSER": "Nancy Telfer",
+            "INSTRUMENTATION": "2 p, 6 c, a, b"
+         },
+         {
+            "ID": "142",
+            "TITLE": "The Flute Choir Method Book",
+            "COMPOSER": "Adah Toland Mosello",
+            "INSTRUMENTATION": "Mixed parts"
+         },
+         {
+            "ID": "143",
+            "TITLE": "The Flute Choir Warm-Up Book",
+            "COMPOSER": "Amy Rice Young",
+            "INSTRUMENTATION": "Mixed parts"
+         },
+         {
+            "ID": "144",
+            "TITLE": "The French Clock",
+            "COMPOSER": "Franz Bornschein arr. Charlet Cellars",
+            "INSTRUMENTATION": "C Flute Quartet"
+         },
+         {
+            "ID": "145",
+            "TITLE": "The Girl with the Flaxen Hair",
+            "COMPOSER": "Claude Debussy arr. David H. Bailey",
+            "INSTRUMENTATION": "3 c (optional Eb), a, b"
+         },
+         {
+            "ID": "146",
+            "TITLE": "The Harmonius Blacksmith",
+            "COMPOSER": "George Frideric Handel",
+            "LAST_PERFORMANCE_DATE": "2016-10-12T00:00:00.000"
+         },
+         {
+            "ID": "147",
+            "TITLE": "The Magic Flute Overture (2 copies)",
+            "COMPOSER": "W. A. Mozart arr. Nancy Nourse",
+            "INSTRUMENTATION": "6 c (part 4 optional p), a, b"
+         },
+         {
+            "ID": "148",
+            "TITLE": "The Marriage of Figaro, Overture",
+            "COMPOSER": "W. A. Mozart arr. Robert Maddox",
+            "INSTRUMENTATION": "4 c, a, b, timpani"
+         },
+         {
+            "ID": "149",
+            "TITLE": "The Nutcracker (In 5 Minutes)",
+            "COMPOSER": "Peter Ilyich Tchaikovsky arr. Judy Nishimura",
+            "INSTRUMENTATION": "p, 4 c, a, b, contra"
+         },
+         {
+            "ID": "150",
+            "TITLE": "The Pink Panther Suite",
+            "COMPOSER": "Henry Mancini arr. Amy Rice-Young",
+            "INSTRUMENTATION": "4 c, a (alternate c), b (alternate c), string bass, drums"
+         },
+         {
+            "ID": "151",
+            "TITLE": "Three Brilliant Showpieces",
+            "COMPOSER": "arr. Trevor Wye",
+            "INSTRUMENTATION": "3 c (1st & 2nd doubling p), a, b"
+         },
+         {
+            "ID": "152",
+            "TITLE": "Three Korean Folk Songs",
+            "COMPOSER": "arr. Kelly Via",
+            "INSTRUMENTATION": "2 p, 4 c, a, b"
+         },
+         {
+            "ID": "153",
+            "TITLE": "Thy Strong Word- Theme and Variations",
+            "COMPOSER": "Williams arr. Gibson",
+            "INSTRUMENTATION": "Flute and Piano"
+         },
+         {
+            "ID": "154",
+            "TITLE": "Trio for three Flutes, Op.26",
+            "COMPOSER": "Anton Reicha",
+            "INSTRUMENTATION": "C Flute Trio"
+         },
+         {
+            "ID": "155",
+            "TITLE": "Trio in G Major",
+            "COMPOSER": "Carl Stamitz arr. Ervin Monroe",
+            "INSTRUMENTATION": "2 c, a or b, or 3 c, or flute choir"
+         },
+         {
+            "ID": "156",
+            "TITLE": "Trois Pastorales pour 3 Flutes",
+            "COMPOSER": "Henri Tomasi",
+            "INSTRUMENTATION": "C Flute Trio"
+         },
+         {
+            "ID": "157",
+            "TITLE": "Tropical Flute Punch",
+            "COMPOSER": "Jonathan Cohen",
+            "INSTRUMENTATION": "p, 2 c, a, b, contrabass flute (optional)"
+         },
+         {
+            "ID": "158",
+            "TITLE": "Two Trio Sonatas",
+            "COMPOSER": "Boismortier arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "c, a, b"
+         },
+         {
+            "ID": "159",
+            "TITLE": "Two Trio Sonatas",
+            "COMPOSER": "Boismortier arr. Shaul Ben-Meir",
+            "INSTRUMENTATION": "c, a, b"
+         },
+         {
+            "ID": "160",
+            "TITLE": "Una Fiesta de Canciones Folkloricas",
+            "COMPOSER": "arr. Ricky Lombardo",
+            "INSTRUMENTATION": "p, 3 c, a (alternate c), b (alternate c), optional string bass, perc."
+         },
+         {
+            "ID": "161",
+            "TITLE": "Under the Big Top",
+            "COMPOSER": "Phyllis Avidan Louke",
+            "INSTRUMENTATION": "p, 3 c, a, b"
+         },
+         {
+            "ID": "162",
+            "TITLE": "Variations on a Theme of Paganini",
+            "COMPOSER": "Dennis Hugh Avey",
+            "INSTRUMENTATION": "4 c, a (optional c), b (optional c)"
+         },
+         {
+            "ID": "163",
+            "TITLE": "Variations on an Ancient Pavane",
+            "COMPOSER": "Ervin Monroe",
+            "INSTRUMENTATION": "5 c, or 4 c w/ a or b, optional p in all combinations'"
+         },
+         {
+            "ID": "164",
+            "TITLE": "Vocalise",
+            "COMPOSER": "Sergei Rachmaninoff arr. Robert K. Webb",
+            "INSTRUMENTATION": "p, 4 c, a (optional c), b, optional contra"
+         },
+         {
+            "ID": "165",
+            "TITLE": "Walk Like This!",
+            "COMPOSER": "Ian Clarke",
+            "INSTRUMENTATION": "4 c"
+         },
+         {
+            "ID": "166",
+            "TITLE": "Waltz, Op. 36, No. 3",
+            "COMPOSER": "Amy Marcy Beach arr. John Gibson",
+            "INSTRUMENTATION": "Flute trio"
+         },
+         {
+            "ID": "167",
+            "TITLE": "Welcome!!",
+            "COMPOSER": "Melvin Lauf",
+            "INSTRUMENTATION": "3 c, a, b"
+         },
+         {
+            "ID": "168",
+            "TITLE": "When the Saints Come Marching In",
+            "COMPOSER": "arr. Paul Negle",
+            "INSTRUMENTATION": "4 c, a optional, b optional, optional string bass",
+            "PIECE_COMMENT": "No Score"
+         },
+         {
+            "ID": "169",
+            "TITLE": "William Tell Overture",
+            "COMPOSER": "Rossini transcribed J. Baker",
+            "INSTRUMENTATION": "Flute Duet"
+         },
+         {
+            "ID": "170",
+            "TITLE": "Winter's Gift",
+            "COMPOSER": "Deborah Anderson",
+            "INSTRUMENTATION": "4 c (optional a)"
+         }
+      ]
