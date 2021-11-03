@@ -4,11 +4,10 @@ const debug = require('debug')('app');
 const morgan = require('morgan');
 const path = require('path');
 const passport = require('passport');
-const cookieParser = require('cookie-parser');
 const session = require('express-session');
 require('dotenv').config();
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT;
 const app = express();
 const bandRouter = require('./src/routers/bandRouter');
 const flutechoirRouter = require('./src/routers/flutechoirRouter');
@@ -22,8 +21,7 @@ app.use(morgan('tiny'));
 app.use(express.static(path.join(__dirname, '/public/')));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(session({ secret: `${process.env.SECRET}` }));
+
 
 require('./src/config/passport.js')(app);
 
